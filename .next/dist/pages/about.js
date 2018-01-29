@@ -14,7 +14,7 @@ var _Header2 = _interopRequireDefault(_Header);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/Users/mac/Desktop/learn-next/pages/index.js?entry';
+var _jsxFileName = '/Users/mac/Desktop/learn-next/pages/about.js?entry';
 
 exports.default = function () {
 	return _react2.default.createElement('div', {
@@ -32,6 +32,6 @@ exports.default = function () {
 			fileName: _jsxFileName,
 			lineNumber: 7
 		}
-	}, 'First Page On Next.JS'));
+	}, 'This is the about page'));
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbIkhlYWRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBWSxBQUVuQjs7Ozs7Ozs7a0JBQWMsWUFBQTt3QkFFZCxjQUFBOzthQUFBO2VBQUEsQUFDQztBQUREO0FBQUEsRUFBQSxrQkFDQyxBQUFDOzthQUFEO2VBREQsQUFDQyxBQUNBO0FBREE7QUFBQSxxQkFDQSxjQUFBOzthQUFBO2VBQUE7QUFBQTtBQUFBLElBSmEsQUFFZCxBQUVDO0FBSkQiLCJmaWxlIjoiaW5kZXguanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL1VzZXJzL21hYy9EZXNrdG9wL2xlYXJuLW5leHQifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2Fib3V0LmpzIl0sIm5hbWVzIjpbIkhlYWRlciJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBWSxBQUVuQjs7Ozs7Ozs7a0JBQWMsWUFBQTt3QkFFZCxjQUFBOzthQUFBO2VBQUEsQUFDQztBQUREO0FBQUEsRUFBQSxrQkFDQyxBQUFDOzthQUFEO2VBREQsQUFDQyxBQUNBO0FBREE7QUFBQSxxQkFDQSxjQUFBOzthQUFBO2VBQUE7QUFBQTtBQUFBLElBSmEsQUFFZCxBQUVDO0FBSkQiLCJmaWxlIjoiYWJvdXQuanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL1VzZXJzL21hYy9EZXNrdG9wL2xlYXJuLW5leHQifQ==
