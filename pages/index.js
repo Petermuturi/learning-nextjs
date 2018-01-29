@@ -1,5 +1,10 @@
+import Link from "next/link";
+
 export default() => 
 
 <div>
-	First Page On Next.JS
+	<p>First Page On Next.JS</p>
+	<Link href="/about">
+		<a>About Page</a>
+	</Link>
 </div>
