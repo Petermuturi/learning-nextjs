@@ -7,9 +7,7 @@ const layoutStyle = {
 }
 
 export default({content})=>
-	<div>
-		<div style={layoutStyle}>
-	    <Header />
-	    {content}
-	  </div>
-	</div>
+	<div style={layoutStyle}>
+    <Header />
+    {content}
+  </div>
