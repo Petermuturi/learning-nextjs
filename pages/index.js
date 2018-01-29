@@ -1,4 +1,4 @@
-import Layout from './components/Layout';
+import Layout from '../components/Layout';
 
 const Content = (<p>First Page On Next.JS</p>);
 
