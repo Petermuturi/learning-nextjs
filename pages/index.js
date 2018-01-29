@@ -1,7 +1,5 @@
 import Layout from './components/Layout';
 
-export default() => 
+const Content = (<p>First Page On Next.JS</p>);
 
-<Layout>
-	<p>First Page On Next.JS</p>
-</Layout>
+export default() => <Layout content={Content}/>

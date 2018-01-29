@@ -1,7 +1,7 @@
 import Layout from './components/Layout';
 
-export default()=>
-
-<Layout>
+const Content = (
 	<p>This is the about page</p>
-</Layout>
+	)
+
+export default()=> <Layout content={Content}/>

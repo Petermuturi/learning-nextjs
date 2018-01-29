@@ -16,17 +16,19 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var _jsxFileName = '/Users/mac/Desktop/learn-next/pages/about.js?entry';
 
+
+var Content = _react2.default.createElement('p', {
+	__source: {
+		fileName: _jsxFileName,
+		lineNumber: 4
+	}
+}, 'This is the about page');
+
 exports.default = function () {
-	return _react2.default.createElement(_Layout2.default, {
-		__source: {
+	return _react2.default.createElement(_Layout2.default, { content: Content, __source: {
 			fileName: _jsxFileName,
-			lineNumber: 5
+			lineNumber: 7
 		}
-	}, _react2.default.createElement('p', {
-		__source: {
-			fileName: _jsxFileName,
-			lineNumber: 6
-		}
-	}, 'This is the about page'));
+	});
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2Fib3V0LmpzIl0sIm5hbWVzIjpbIkxheW91dCJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBWSxBQUVuQjs7Ozs7Ozs7a0JBQWMsWUFBQTt3QkFFZCxBQUFDOzthQUFEO2VBQUEsQUFDQztBQUREO0FBQUEsRUFBQSxrQkFDQyxjQUFBOzthQUFBO2VBQUE7QUFBQTtBQUFBLElBSGEsQUFFZCxBQUNDO0FBSEQiLCJmaWxlIjoiYWJvdXQuanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL1VzZXJzL21hYy9EZXNrdG9wL2xlYXJuLW5leHQifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2Fib3V0LmpzIl0sIm5hbWVzIjpbIkxheW91dCIsIkNvbnRlbnQiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBQSxBQUFPLEFBQVk7Ozs7Ozs7OztBQUVuQixJQUFNLDBCQUNMLGNBQUE7O1lBQUE7Y0FBQTtBQUFBO0FBQUEsQ0FBQSxFQURELEFBQ0MsQUFHRDs7a0JBQWMsWUFBQTt3QkFBSyxBQUFDLGtDQUFPLFNBQVIsQUFBaUI7YUFBakI7ZUFBTCxBQUFLO0FBQUE7RUFBQTtBQUFuQiIsImZpbGUiOiJhYm91dC5qcz9lbnRyeSIsInNvdXJjZVJvb3QiOiIvVXNlcnMvbWFjL0Rlc2t0b3AvbGVhcm4tbmV4dCJ9

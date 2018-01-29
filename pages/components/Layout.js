@@ -6,11 +6,11 @@ const layoutStyle = {
   border: '1px solid #DDD'
 }
 
-export default(props)=>
+export default({content})=>
 
 <div>
 	<div style={layoutStyle}>
     <Header />
-    {props.children}
+    {content}
   </div>
 </div>
